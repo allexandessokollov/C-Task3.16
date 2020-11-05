@@ -1,0 +1,13 @@
+C:\Git\C-Task3.16\task3.16\task3.16\bin\Debug\netcoreapp3.1\task3.16.exe
+C:\Git\C-Task3.16\task3.16\task3.16\bin\Debug\netcoreapp3.1\task3.16.deps.json
+C:\Git\C-Task3.16\task3.16\task3.16\bin\Debug\netcoreapp3.1\task3.16.runtimeconfig.json
+C:\Git\C-Task3.16\task3.16\task3.16\bin\Debug\netcoreapp3.1\task3.16.runtimeconfig.dev.json
+C:\Git\C-Task3.16\task3.16\task3.16\bin\Debug\netcoreapp3.1\task3.16.dll
+C:\Git\C-Task3.16\task3.16\task3.16\bin\Debug\netcoreapp3.1\task3.16.pdb
+C:\Git\C-Task3.16\task3.16\task3.16\obj\Debug\netcoreapp3.1\task3.16.csprojAssemblyReference.cache
+C:\Git\C-Task3.16\task3.16\task3.16\obj\Debug\netcoreapp3.1\task3.16.AssemblyInfoInputs.cache
+C:\Git\C-Task3.16\task3.16\task3.16\obj\Debug\netcoreapp3.1\task3.16.AssemblyInfo.cs
+C:\Git\C-Task3.16\task3.16\task3.16\obj\Debug\netcoreapp3.1\task3.16.csproj.CoreCompileInputs.cache
+C:\Git\C-Task3.16\task3.16\task3.16\obj\Debug\netcoreapp3.1\task3.16.dll
+C:\Git\C-Task3.16\task3.16\task3.16\obj\Debug\netcoreapp3.1\task3.16.pdb
+C:\Git\C-Task3.16\task3.16\task3.16\obj\Debug\netcoreapp3.1\task3.16.genruntimeconfig.cache
